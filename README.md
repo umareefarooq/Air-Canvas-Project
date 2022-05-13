@@ -6,4 +6,4 @@ I have used the computer vision techniques of OpenCV to build this project. The 
 
 # Required Libraries
 
-  - OpenCv
+  - OpenCv,
